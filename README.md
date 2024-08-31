@@ -1,9 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></br>
+  <img src="https://i.pinimg.com/736x/8c/2b/de/8c2bde8db471a07605e8f19c8bbb7210.jpg" width="100"/></br>
   
   <h1>
     hey there
-    <img src="https://i.pinimg.com/736x/8c/2b/de/8c2bde8db471a07605e8f19c8bbb7210.jpg" width="30px"/>
   </h1>
 </div>
 
