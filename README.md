@@ -3,7 +3,7 @@
   
   <h1>
     hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://i.pinimg.com/736x/8c/2b/de/8c2bde8db471a07605e8f19c8bbb7210.jpg" width="30px"/>
   </h1>
 </div>
 
